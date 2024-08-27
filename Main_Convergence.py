@@ -88,20 +88,3 @@ if __name__ == '__main__':
     df.to_excel(path+'sumresult_failure_count.xlsx', index=True)
 
     print(f"Config:{args_parser()}")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

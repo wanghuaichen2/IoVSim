@@ -6,5 +6,6 @@
 *.iml
 *.xlsx
 *.csv
+DAG_config_Convergence.json
 out
 gen
